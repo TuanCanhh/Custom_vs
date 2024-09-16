@@ -1,0 +1,47 @@
+{
+    "background.windowBackgrounds": [
+        "d:/trung_thu.jpg"
+    ],
+    "files.autoSave": "afterDelay",
+    "background.style": {
+
+        "background-position": "100% 100%",
+        "background-size": "auto",
+        "opacity": 0.5
+    },
+    "editor.linkedEditing": true,   
+    "workbench.colorTheme": "Ayu Dark (Legacy)",
+
+    "vscode_custom_css.imports": [
+        
+    "file:///D:/styles/2lines-animation.css", 
+    "file:///D:/styles/animate-tab-border-line.css",
+    "file:///D:/styles/border-top-animation.css",
+    "file:///D:/styles/center-line-gradient.css",
+    "file:///D:/styles/corner-gradient.css",
+    "file:///D:/styles/cursor.css",
+    "file:///D:/styles/custom.css",
+    "file:///D:/styles/custom-tab-gradient.css",
+    "file:///D:/styles/evondev-dracula.css",
+    "file:///D:/styles/neon-line-animation.css",
+    "file:///D:/styles/rounded-line-neon.css",
+    "file:///D:/styles/rounded-tab.css",
+    "file:///D:/styles/vertical-scrollbar.css"
+    ],
+    "background.styles": [
+        
+        {},
+        {},
+        {}
+    ],
+    "background.backgroundOpacity": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "security.workspace.trust.untrustedFiles": "newWindow"
+ 
+}
+
+
